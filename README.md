@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    
+
+    <!-- Menú de navegación -->
+    <header>
+        <nav class="menu">
+            <ul>
+                <li><a href="#acerca-de-mi">Acerca de mí</a></li>
+                <li><a href="#curriculum">Curriculum Vitae</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+ 
+    <!-- Sección Acerca de mí -->
+    <section id="acerca-de-mi">
+        <h2>Acerca de mí</h2>
+        <div class="contenido-acerca">
+            <img src="gato.jpg" alt="YO" class="mi-imagen">
+            <p>Estudiante de Ingeniería en Sistemas Computacionales en el ITCM, con una sólida trayectoria en el diseño y desarrollo de software. Mis habilidades incluyen el diseño de interfaces de usuario y la gestión de proyectos. He liderado equipos en la creación de aplicaciones utilizando Java como lenguaje principal, así como C, C#, y C++. Mis proyectos demuestran mi capacidad para visualizar las necesidades del usuario y transformarlas en soluciones tecnológicas eficientes.</p>
+        </div>
+    </section>
+    
+
+    <!-- Sección Curriculum Vitae -->
+    <section id="curriculum">
+        <h2>Historial academico</h2>
+        <p>Aquí puedes encontrar mis estudios y las habilidades que he adquirido a lo largo de mi carrera.</p>
+        <ul>
+            <LI>2021 - Presente - - Instituto Tecnológico de Ciudad Madero - - Cd. Madero</LI>
+            <p>Actualmente, me encuentro cursando la carrera de sistemas computacionales en el ITCM, donde he adquirido conocimientos sólidos en programación y desarrollo de software.</p>
+        </ul>
+        <h2>Habilidades</h2>
+        <ul>
+            <LI>Desarrollo de Software </LI>
+            <LI>Resolución de Problemas </LI>
+            <LI>Servicio al Cliente </LI>
+            <LI>Liderazgo </LI>
+            <LI>Gestion de proyectos </LI>
+            <LI>Inglés  60% </LI>
+        </ul>
+    </section>
+
+    <!-- Sección Proyectos -->
+    <section id="proyectos">
+        <h2>Proyectos</h2>
+        <p>He trabajado en varios proyectos que abarcan desde el desarrollo de software hasta la creación de sistemas web a gran escala como:</p>
+        <ul>
+            <LI>Fron2go  - -   Gestor de reservas </LI>
+           <p>El proyecto de software Front2go fue creado para hoteles City Express by Marriott tiene como objetivo implementar un sistema centralizado y moderno para la gestión de reservas en todos los hoteles de la cadena.
+            Este programa es creado para que los empleados y encargados de generar reservas para mantener un mejor control, así como para optimizar el tiempo de espera </p>
+           <p> ____________________________________________________________________________________________________________________________________</p>
+            <LI>Hotel Clean - -  
+            Gestor de personal de limpieza </LI>
+           <p>En este proyecto se administra las limpiezas y sanitizaciones de cada una de las areas de los hoteles que contaban con este software </p> 
+           <p> ____________________________________________________________________________________________________________________________________</p>
+           <LI>
+            EnvioExpress  - -   
+            Gestor de envio de paquetes </LI>
+           <p>Esta fue una pagina web creada con la intension de administrar los envios de una paqueteria a nivel local  </p>
+           <p> ____________________________________________________________________________________________________________________________________</p>
+        </ul>
+                <p>Entre muchos otros proyectos en los que he asistido a lo largo de mi carrera</p>
+    </section>
+
+    <!-- Sección Contacto -->
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Puedes ponerte en contacto conmigo por diferentes medios.</p>
+        <ul>
+            <LI>Llamadas telefonicas y whatsapp : 833 413 96 90</LI>
+        <LI>Correo: josepugga@gmail.com</LI>
+        <LI>IG: josepugga_mtz</LI>
+    </ul>
+            
+    </section>
+
+</body>
+</html>
